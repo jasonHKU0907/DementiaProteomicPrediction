@@ -3,17 +3,29 @@ The results were largely consistent with those obtained in the published paper. 
 These analysis and corresponding results were uploaded within folder 10-FoldCV-Analysis-ACD.
 
 Code:
+
 Association analysis of Cox regression:
+
 s0_Cox_M1.py
+
 s0_Cox_M2.py
+
 Importance ranking  of proteins:
+
 s1_ACD_ProImp.py
+
 Sequential forward protein selection:
+
 s2_SFS.py
+
 Machine learning model development:
+
 s3_ML.py
+
 Model evaluation:
+
 S4_Eval.py
+
 
 Results:
 CV_Fold_SelectedProteins.csv: Selected proteins under each cross-validation partition
@@ -29,6 +41,3 @@ pred_probs.csv: predicted probabilities of selected proteins and predicted proba
 pred_probs_Top3ProDemo.csv: predicted probabilities of top-3 selected proteins + demographic information
 Eval_ProPanel.csv & Eval_ProDemo.csv & Eval_Top3ProDemo.csv: cross-validation evaluation of selected protein, selected protein + demographic information and top-3 selected proteins + demographic information
 
-
-
-![image](https://github.com/user-attachments/assets/217e12a3-9dfa-4cc0-bd99-25051a6023e4)
