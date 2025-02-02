@@ -1,0 +1,74 @@
+Pro_code,TotalGain_cv,Pro_definition
+GFAP,0.16925356025343827,Glial fibrillary acidic protein
+NEFL,0.16125416660950778,Neurofilament light polypeptide
+GDF15,0.08253500465122973,Growth/differentiation factor 15
+BCAN,0.07988429203238993,Brevican core protein
+LTBP2,0.06054689191694289,Latent-transforming growth factor beta-binding protein 2
+EDA2R,0.04970071902213912,Tumor necrosis factor receptor superfamily member 27
+NPTXR,0.040882072600853456,Neuronal pentraxin receptor
+EGFR,0.026016974240240374,Epidermal growth factor receptor
+ACTA2,0.01860955173409215,"Actin, aortic smooth muscle"
+HPGDS,0.01662693880479156,Hematopoietic prostaglandin D synthase
+CHI3L1,0.014072757860135503,Chitinase-3-like protein 1
+CST5,0.013272947120942648,Cystatin-D
+CEACAM5,0.012010733153338496,Carcinoembryonic antigen-related cell adhesion molecule 5
+CALB1,0.011499858013891891,Calbindin
+CD276,0.010054706246280923,CD276 antigen
+LRRN1,0.009715721135566837,Leucine-rich repeat neuronal protein 1
+ITGAM,0.008997046195005099,Integrin alpha-M
+TNFRSF1A,0.007232630317018694,Tumor necrosis factor receptor superfamily member 1A
+TNFRSF10B,0.007219487986237394,Tumor necrosis factor receptor superfamily member 10B
+KLK4,0.007169435109321767,Kallikrein-4
+MMP3,0.006911290723129623,Stromelysin-1
+IL19,0.0067401799175417,Interleukin-19
+IL4R,0.006721157057271072,Interleukin-4 receptor subunit alpha
+WNT9A,0.00671726789224633,Protein Wnt-9a
+IGFBP4,0.006683341859919967,Insulin-like growth factor-binding protein 4
+EBI3_IL27,0.006216225426080572,Interleukin-27
+LTBR,0.005829371925257454,Tumor necrosis factor receptor superfamily member 3
+PTGDS,0.0056411552455835155,Prostaglandin-H2 D-isomerase
+TNFRSF1B,0.005373525433987623,Tumor necrosis factor receptor superfamily member 1B
+ADM,0.005075002814176088,Pro-adrenomedullin
+COL6A3,0.004999802222335175,Collagen alpha-3(VI) chain
+ITGA11,0.004912457033847707,Integrin alpha-11
+SPINK4,0.004879075693430196,Serine protease inhibitor Kazal-type 4
+SPON2,0.004705514894845405,Spondin-2
+PLAUR,0.004674944656358745,Urokinase plasminogen activator surface receptor
+IL10,0.0046485610548640775,Interleukin-10
+IGFBP2,0.004624332785710995,Insulin-like growth factor-binding protein 2
+AREG,0.004620507880186948,Amphiregulin
+IL15,0.004489315237560891,Interleukin-15
+PI3,0.004176333391835151,Elafin
+CKAP4,0.004151810701542331,Cytoskeleton-associated protein 4
+CD302,0.004090968837703792,CD302 antigen
+EPHB4,0.0038558393284818956,Ephrin type-B receptor 4
+OMG,0.0038502586808100933,Oligodendrocyte-myelin glycoprotein
+DPP4,0.0038353845177437175,Dipeptidyl peptidase 4
+IL2RA,0.003667564313361548,Interleukin-2 receptor subunit alpha
+ITGAV,0.00361338856209472,Integrin alpha-V
+NPDC1,0.003360980407630884,Neural proliferation differentiation and control protein 1
+PRTN3,0.0032981262736674374,Myeloblastin
+REG3A,0.003156928459209803,Regenerating islet-derived protein 3-alpha
+C1QA,0.003034777618140615,Complement C1q subcomponent subunit A
+ANGPTL4,0.003018586497476767,Angiopoietin-related protein 4
+WFDC2,0.002951744652891347,WAP four-disulfide core domain protein 2
+CLEC5A,0.002899283249255075,C-type lectin domain family 5 member A
+TFF3,0.002625405085707708,Trefoil factor 3
+CD59,0.0025709837767900713,CD59 glycoprotein
+TGFA,0.0024933016667994102,Protransforming growth factor alpha
+TIMP4,0.0024903976859699515,Metalloproteinase inhibitor 4
+CSF1,0.0021256370086950127,Macrophage colony-stimulating factor 1
+CLEC4D,0.0019451149863648647,C-type lectin domain family 4 member D
+GFRA1,0.0018720581847671842,GDNF family receptor alpha-1
+ACVRL1,0.0018201298914625014,Serine/threonine-protein kinase receptor R3
+TNFRSF6B,0.0017768387371914103,Tumor necrosis factor receptor superfamily member 6B
+SERPINA11,0.0017445140824866616,Serpin A11
+COL18A1,0.001726735814595567,Collagen alpha-1(XVIII) chain
+DSC2,0.0017203038059082037,Desmocollin-2
+SPP1,0.001671611318900954,Osteopontin
+SCARB2,0.0016704792481704747,Lysosome membrane protein 2
+NECTIN2,0.0016622861399308362,Nectin-2
+EPHA2,0.0015974417383196175,Ephrin type-A receptor 2
+CX3CL1,0.0015659705948353612,Fractalkine
+EFNA4,0.0014967014720331606,Ephrin-A4
+TGFBR2,0.0014435885115277238,TGF-beta receptor type-2

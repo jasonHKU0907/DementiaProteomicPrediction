@@ -1,0 +1,49 @@
+Pro_code,TotalGain_cv,Pro_definition
+GFAP,0.19614943714616928,Glial fibrillary acidic protein
+NEFL,0.18669595858164512,Neurofilament light polypeptide
+GDF15,0.09537573419320754,Growth/differentiation factor 15
+BCAN,0.07874508276580781,Brevican core protein
+LTBP2,0.05543362361392747,Latent-transforming growth factor beta-binding protein 2
+NPTXR,0.04338532637817055,Neuronal pentraxin receptor
+EDA2R,0.03851148043339265,Tumor necrosis factor receptor superfamily member 27
+EGFR,0.02241319996935199,Epidermal growth factor receptor
+HPGDS,0.01953323042401222,Hematopoietic prostaglandin D synthase
+CST5,0.01906862314049842,Cystatin-D
+CEACAM5,0.015454261567457717,Carcinoembryonic antigen-related cell adhesion molecule 5
+KLK4,0.014001630297931772,Kallikrein-4
+CD276,0.013978378040364347,CD276 antigen
+ACTA2,0.011804318192649918,"Actin, aortic smooth muscle"
+CHI3L1,0.011399287463292078,Chitinase-3-like protein 1
+CALB1,0.010434179451630008,Calbindin
+PSG1,0.010167233155819118,Pregnancy-specific beta-1-glycoprotein 1
+IL1RL1,0.009823645712400414,Interleukin-1 receptor-like 1
+WNT9A,0.009775535065731566,Protein Wnt-9a
+GFRA1,0.009032594728399056,GDNF family receptor alpha-1
+LRRN1,0.009024393330207105,Leucine-rich repeat neuronal protein 1
+EPHA2,0.007502910978057052,Ephrin type-A receptor 2
+ITGAM,0.007429095187003042,Integrin alpha-M
+LDLR,0.006672724304848566,Low-density lipoprotein receptor
+IGFBP2,0.006099603207290283,Insulin-like growth factor-binding protein 2
+ITGA11,0.006050345817283004,Integrin alpha-11
+GPC5,0.006020937599506893,Glypican-5
+PI3,0.005887517032522875,Elafin
+ITGAV,0.0056828719425235765,Integrin alpha-V
+WFDC2,0.0056616311244487814,WAP four-disulfide core domain protein 2
+IL4R,0.005512844957345253,Interleukin-4 receptor subunit alpha
+EBI3_IL27,0.005157845028639785,Interleukin-27
+REG3A,0.0048981533615161735,Regenerating islet-derived protein 3-alpha
+OMG,0.004528884409255727,Oligodendrocyte-myelin glycoprotein
+AREG,0.004478515067949744,Amphiregulin
+CSF1,0.004041655488032297,Macrophage colony-stimulating factor 1
+TIMP4,0.003547440836869677,Metalloproteinase inhibitor 4
+SCARB2,0.0035248373434299705,Lysosome membrane protein 2
+PLAUR,0.0033999383300572735,Urokinase plasminogen activator surface receptor
+SPP1,0.0033177132735913925,Osteopontin
+CLEC5A,0.0031501044919262956,C-type lectin domain family 5 member A
+ACVRL1,0.003020687771712731,Serine/threonine-protein kinase receptor R3
+TFF3,0.00278675258573605,Trefoil factor 3
+ADM,0.002687743544970978,Pro-adrenomedullin
+TGFA,0.0025606033810667366,Protransforming growth factor alpha
+SERPINA11,0.0023706245231191105,Serpin A11
+TNFRSF10B,0.00211230189481685,Tumor necrosis factor receptor superfamily member 10B
+GDNF,0.001688562864413916,Glial cell line-derived neurotrophic factor

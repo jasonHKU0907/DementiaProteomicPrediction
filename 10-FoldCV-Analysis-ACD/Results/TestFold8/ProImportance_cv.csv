@@ -1,0 +1,58 @@
+Pro_code,TotalGain_cv,Pro_definition
+GFAP,0.17423757250044042,Glial fibrillary acidic protein
+NEFL,0.1661957946530903,Neurofilament light polypeptide
+GDF15,0.08101933906500759,Growth/differentiation factor 15
+EDA2R,0.07681852489860519,Tumor necrosis factor receptor superfamily member 27
+BCAN,0.06871427368307599,Brevican core protein
+LTBP2,0.051068534301274955,Latent-transforming growth factor beta-binding protein 2
+NPTXR,0.04479963693744045,Neuronal pentraxin receptor
+EGFR,0.02373934423378079,Epidermal growth factor receptor
+HPGDS,0.020944213783547518,Hematopoietic prostaglandin D synthase
+CEACAM5,0.019733998975592956,Carcinoembryonic antigen-related cell adhesion molecule 5
+CDON,0.01811151376378095,Cell adhesion molecule-related/down-regulated by oncogenes
+CST5,0.01491005163228543,Cystatin-D
+KLK4,0.014507168333149434,Kallikrein-4
+ACTA2,0.01386937251194578,"Actin, aortic smooth muscle"
+WNT9A,0.013293874635686634,Protein Wnt-9a
+CD276,0.013023019602836512,CD276 antigen
+CHI3L1,0.012967496526613918,Chitinase-3-like protein 1
+CALB1,0.011007981819088472,Calbindin
+PSG1,0.008628658683204865,Pregnancy-specific beta-1-glycoprotein 1
+IL1RL1,0.008320966664337808,Interleukin-1 receptor-like 1
+COL6A3,0.007857262321282036,Collagen alpha-3(VI) chain
+LRRN1,0.007578926227224737,Leucine-rich repeat neuronal protein 1
+TNFRSF11B,0.007492612576730562,Tumor necrosis factor receptor superfamily member 11B
+GFRA1,0.00579579306346408,GDNF family receptor alpha-1
+ITGAM,0.00563906327129522,Integrin alpha-M
+PVR,0.005634870142734744,Poliovirus receptor
+EPHA2,0.005392944006286416,Ephrin type-A receptor 2
+IGFBP2,0.005315562017876192,Insulin-like growth factor-binding protein 2
+ITGAV,0.005241267670981376,Integrin alpha-V
+CD59,0.004816420320870061,CD59 glycoprotein
+REG3A,0.0046377790407883925,Regenerating islet-derived protein 3-alpha
+AREG,0.0044290207012872415,Amphiregulin
+EBI3_IL27,0.004319646453886162,Interleukin-27
+GPC5,0.0042223081204881595,Glypican-5
+ADAMTS8,0.004026526520005649,A disintegrin and metalloproteinase with thrombospondin motifs 8
+OMG,0.00398808473169215,Oligodendrocyte-myelin glycoprotein
+IL19,0.003870172050010709,Interleukin-19
+TIMP4,0.003665224759728259,Metalloproteinase inhibitor 4
+DPP4,0.0035910848935819598,Dipeptidyl peptidase 4
+PI3,0.003471872332941394,Elafin
+CSF1,0.0034458807219924325,Macrophage colony-stimulating factor 1
+ITGA11,0.0034137385096491856,Integrin alpha-11
+WFDC2,0.0033705698881152726,WAP four-disulfide core domain protein 2
+CLEC5A,0.0033181380601883443,C-type lectin domain family 5 member A
+ACVRL1,0.0028948914559399513,Serine/threonine-protein kinase receptor R3
+IL6,0.002873328130290453,Interleukin-6
+PLAUR,0.0027814936433110055,Urokinase plasminogen activator surface receptor
+CD302,0.002755357668469799,CD302 antigen
+TFF3,0.0027190308423033238,Trefoil factor 3
+TNFRSF6B,0.0025797735342481857,Tumor necrosis factor receptor superfamily member 6B
+ADM,0.002461353947775302,Pro-adrenomedullin
+TNFRSF10B,0.0020429537438929907,Tumor necrosis factor receptor superfamily member 10B
+TGFA,0.0018847976942781793,Protransforming growth factor alpha
+SPP1,0.001873572344224348,Osteopontin
+SCARB2,0.001652614520077111,Lysosome membrane protein 2
+SPON1,0.001631006266010578,Spondin-1
+SERPINA11,0.0014037206012917263,Serpin A11

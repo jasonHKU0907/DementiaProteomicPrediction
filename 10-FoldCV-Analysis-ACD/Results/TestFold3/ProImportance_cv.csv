@@ -1,0 +1,56 @@
+Pro_code,TotalGain_cv,Pro_definition
+NEFL,0.21352615501580666,Neurofilament light polypeptide
+GFAP,0.15710104369325575,Glial fibrillary acidic protein
+GDF15,0.07607687115197276,Growth/differentiation factor 15
+BCAN,0.063315517264353,Brevican core protein
+LTBP2,0.058623160146189915,Latent-transforming growth factor beta-binding protein 2
+EDA2R,0.056205497657451226,Tumor necrosis factor receptor superfamily member 27
+NPTXR,0.04564763079234381,Neuronal pentraxin receptor
+HPGDS,0.02198855685275337,Hematopoietic prostaglandin D synthase
+EGFR,0.016496038565660415,Epidermal growth factor receptor
+KLK4,0.01606741106803361,Kallikrein-4
+CST5,0.01532812929012391,Cystatin-D
+CEACAM5,0.015104747695724535,Carcinoembryonic antigen-related cell adhesion molecule 5
+CHI3L1,0.01427120143445533,Chitinase-3-like protein 1
+ACTA2,0.013684351962149975,"Actin, aortic smooth muscle"
+CDON,0.012125990284373302,Cell adhesion molecule-related/down-regulated by oncogenes
+CD276,0.0115937702687309,CD276 antigen
+WNT9A,0.011365670509486642,Protein Wnt-9a
+CALB1,0.011077828515735424,Calbindin
+CNTN5,0.010879318358708893,Contactin-5
+PSG1,0.010291563746269468,Pregnancy-specific beta-1-glycoprotein 1
+ITGAM,0.00843375923493685,Integrin alpha-M
+IGFBP2,0.00711137498991872,Insulin-like growth factor-binding protein 2
+PTGDS,0.006628558572846746,Prostaglandin-H2 D-isomerase
+EPHA2,0.0063655766694159805,Ephrin type-A receptor 2
+AREG,0.006196877161546151,Amphiregulin
+COL6A3,0.006133541522136347,Collagen alpha-3(VI) chain
+LRRN1,0.005781172905542122,Leucine-rich repeat neuronal protein 1
+OMG,0.005496331307104142,Oligodendrocyte-myelin glycoprotein
+GFRA1,0.005426596762291978,GDNF family receptor alpha-1
+ITGAV,0.005299217360046176,Integrin alpha-V
+DPP4,0.005257150934587282,Dipeptidyl peptidase 4
+REG3A,0.005003994081286495,Regenerating islet-derived protein 3-alpha
+ADM,0.0047972468849117,Pro-adrenomedullin
+CD59,0.004793657402928923,CD59 glycoprotein
+ADAMTS8,0.0044384119711768115,A disintegrin and metalloproteinase with thrombospondin motifs 8
+EBI3_IL27,0.004217433807331943,Interleukin-27
+PI3,0.004179462540708547,Elafin
+TIMP4,0.004158227020584182,Metalloproteinase inhibitor 4
+ITGA11,0.00400378061521066,Integrin alpha-11
+IL15,0.00376330482193269,Interleukin-15
+TINAGL1,0.0037393103364496173,Tubulointerstitial nephritis antigen-like
+TNFRSF6B,0.003542578205591857,Tumor necrosis factor receptor superfamily member 6B
+TNFRSF10B,0.0035188930423171415,Tumor necrosis factor receptor superfamily member 10B
+PLAUR,0.0033713944929314532,Urokinase plasminogen activator surface receptor
+CLEC5A,0.0031778468913904808,C-type lectin domain family 5 member A
+ACVRL1,0.0031723512268816752,Serine/threonine-protein kinase receptor R3
+PRTN3,0.003036720033502427,Myeloblastin
+TFF3,0.002763200940699629,Trefoil factor 3
+SPP1,0.0027280903159687853,Osteopontin
+CSF1,0.0026355664526531764,Macrophage colony-stimulating factor 1
+WFDC2,0.002605210618789867,WAP four-disulfide core domain protein 2
+TGFA,0.002493287580477098,Protransforming growth factor alpha
+SCARB2,0.002189343806132722,Lysosome membrane protein 2
+SERPINA11,0.001410333398123367,Serpin A11
+CLEC4D,0.0013597418180670386,C-type lectin domain family 4 member D
