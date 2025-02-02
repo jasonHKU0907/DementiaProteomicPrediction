@@ -28,16 +28,29 @@ S4_Eval.py
 
 
 Results:
+
 CV_Fold_SelectedProteins.csv: Selected proteins under each cross-validation partition
+
 CV_Fold_Eval_ProPanel.csv: Cross-validation model performance of protein panel
+
 CV_Fold_Eval_ProDemo.csv: Cross-validation model performance of protein panel + Demographic
+
 CV_Fold_Eval_Top3ProDemo.csv: Cross-validation model performance of top-3 protein + Demographic; notably, the top-3 proteins were NEFL, GFAP and GDF15
 
-/Results/TestFold*/ : cross-validation results under each cross-validation partition
+
+/Results/TestFold*/ : 
+
+cross-validation results under each cross-validation partition
+
 ACD_Cox_M1.csv & ACD_Cox_M2.csv: Cox regression to identify associated proteins
+
 ProImportance_cv.csv: calculate the protein importance and ranking proteins
+
 SFS_cv.csv: sequential forward selection procedure to determine optimal number of proteins
+
 pred_probs.csv: predicted probabilities of selected proteins and predicted probabilities of selected proteins + demographic information
+
 pred_probs_Top3ProDemo.csv: predicted probabilities of top-3 selected proteins + demographic information
+
 Eval_ProPanel.csv & Eval_ProDemo.csv & Eval_Top3ProDemo.csv: cross-validation evaluation of selected protein, selected protein + demographic information and top-3 selected proteins + demographic information
 
